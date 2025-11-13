@@ -6,4 +6,4 @@ st.write("If you see this page, your CI/CD pipeline was successful 🎉")
 
 name = st.text_input("Enter your name:")
 if name:
-    st.success(f"Hello, {name} 👋 Welcome to CI/CD pipeline testing!")
+    st.success(f"Hello hi, {name} 👋 Welcome to CI/CD pipeline testing!")
